@@ -1,0 +1,19 @@
+.box{
+    border: 1px double rgba(117, 117, 64, 0.795);
+    width: 150px;
+    padding: 10px 15px;
+    text-align: center;
+    margin: 300px auto 300px;
+    animation-name: hello_world;
+    animation: name duration timing-function delay iteration-count direction fill-mode;
+}
+
+@keyframes hello_world {
+    from{
+
+    }
+
+    to{
+
+    }
+}
